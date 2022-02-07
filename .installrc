@@ -1,2 +1,3 @@
 npm install
-rm -rf .installrc
+#(platform!=win32)|rm -rf .installrc
+#(platform=win32)|del .installrc
