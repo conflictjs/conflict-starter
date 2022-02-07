@@ -1,2 +1,2 @@
-# conflict-starter
-Starter template for Conflict - get started with `npx create-conflict-app`
+# Conflict starter
+Under development, not ready yet.
