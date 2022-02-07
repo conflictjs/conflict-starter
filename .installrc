@@ -1,1 +1,2 @@
 npm install
+rm -rf .installrc
