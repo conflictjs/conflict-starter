@@ -1,0 +1,6 @@
+{
+  "name": "my-conflict-app",
+  "version": "1.0.0",
+  "description": "A brand new Conflict project",
+  "main": "index.js"
+}
