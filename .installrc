@@ -1,3 +1,4 @@
 npm install
 node .installrc.js
+touch token
 echo "Check README.md for instructions"
