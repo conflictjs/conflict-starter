@@ -11,7 +11,7 @@
   "author": "Conflict.js",
   "type": "module",
   "dependencies": {
-    "@conflict/beta": "^0.7.2"
+    "@conflict/beta": "^0.9.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
